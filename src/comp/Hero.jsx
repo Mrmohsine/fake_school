@@ -1,4 +1,3 @@
-import React from 'react';
 import heroPattern from '../assets/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpg';
 import Nav from './Nav'; 
 import { FaArrowRight } from "react-icons/fa";

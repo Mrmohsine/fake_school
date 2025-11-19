@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import Hero from './comp/hero'
+import Hero from './comp/Hero'
 import Program from './comp/Program'
 import About from './comp/About'
 import Testimonials from './comp/Testimonials'
