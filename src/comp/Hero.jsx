@@ -15,7 +15,7 @@ export default function Hero() {
         <p className="text-lg">
           Empowering students with the best learning experiences. Join us to explore various programs, campus life, and more.
         </p>
-        <button className="bg-slate-800 text-white text-2xl px-4 py-2 rounded-full  h-11 flex items-center justify-center gap-2 h-16 w-56">
+        <button className="bg-slate-800 text-white text-2xl px-4 py-2 rounded-full flex items-center justify-center gap-2 h-16 w-56">
         
             <span>Explore more</span> <FaArrowRight />
 

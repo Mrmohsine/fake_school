@@ -53,7 +53,7 @@ export default function Contact() {
           </p>
           <p className="flex items-center text-gray-700">
             <FaPhone className="mr-2 text-blue-600" />
-            +212 612820865
+            +212 711404114
           </p>
           <p className="flex items-center text-gray-700">
             <SiGooglemaps className="mr-2 text-blue-600" />
