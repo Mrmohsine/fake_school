@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import Nav from './comp/Nav'
 import Hero from './comp/hero'
 import Program from './comp/Program'
 import About from './comp/About'
@@ -23,13 +22,13 @@ function App() {
       img.onload = () => {
         loadedImages++;
         if (loadedImages === totalImages) {
-          setTimeout(() => setLoading(false), 500);
+          setTimeout(() => setLoading(false), 1000);
         }
       };
       img.onerror = () => {
         loadedImages++;
         if (loadedImages === totalImages) {
-          setTimeout(() => setLoading(false), 500);
+          setTimeout(() => setLoading(false), 1000);
         }
       };
     });
